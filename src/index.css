@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
+body{
+  overflow-x: hidden;
+}
+
+@layer base {
+  h1 {
+    @apply text-4xl;
+    @apply font-bold;
+  }
+  h2 {
+    @apply text-3xl;
+    @apply font-bold;
+  }
+  h3 {
+    @apply text-2xl;
+    @apply font-bold;
+  }
+  h4 {
+    @apply text-xl;
+    @apply font-semibold;
+  }
+  h5 {
+    @apply text-xl;
+    font-family: 'Monserrat',sans-serif;
+    /* @apply font-semibold; */
+  }
+}
+
+.shd{
+  text-shadow: -3px 2px 4px;
+}
+
+.position{
+  position: relative;
+}
+
+.content1{
+    /* color: #152C5B; */
+    color: whitesmoke;
+    position: absolute;
+    top: 73%;
+    bottom: 0;
+    left: 5%;
+    right: 0;
+    height: fit-content;
+    margin: auto;
+}
+.content2{
+  color: whitesmoke;
+  position: absolute;
+  top: 53%;
+  bottom: 0;
+  left: 10%;
+  right: 0;
+  height: fit-content;
+  margin: auto;
+}
+.content3{
+  color: whitesmoke;
+  position: absolute;
+  top: 175%;
+  bottom: 0;
+  left: 10%;
+  right: 0;
+  height: fit-content;
+  margin: auto;
+}
+.content4{
+  color: whitesmoke;
+  position: absolute;
+  top: -23%;
+  bottom: 0;
+  left: 10%;
+  right: 0;
+  height: fit-content;
+  margin: auto;
+}
+.content5{
+  color: whitesmoke;
+  position: absolute;
+  top: 75%;
+  bottom: 0;
+  left: 10%;
+  right: 0;
+  height: fit-content;
+  margin: auto;
+}
+
