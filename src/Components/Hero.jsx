@@ -118,7 +118,7 @@ const Hero = () => {
             ease: "easeOut",
             type: "spring",
           }}
-          src="./assets/3.jpg"
+          src="./assets/29.jpg"
           alt=""
           className="rounded-tl-large rounded-2xl absolute -top-10  -left-24"
         />

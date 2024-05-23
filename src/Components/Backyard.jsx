@@ -60,7 +60,7 @@ const Backyard = () => {
         >
           <Link to="/anggana">
             <img
-              src="./assets/30.jpg"
+              src="./assets/26.jpg"
               alt=""
               className="rounded-3xl hover:opacity-90 cursor-pointer"
             />

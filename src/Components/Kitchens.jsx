@@ -34,7 +34,7 @@ const Kitchens = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="/green_park">
-              <img src="./assets/33.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/33.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
@@ -58,7 +58,7 @@ const Kitchens = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="/podo_wae">
-              <img src="./assets/34.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/34.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
@@ -82,7 +82,7 @@ const Kitchens = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="/silver_rain">
-              <img src="./assets/35.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/35.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
@@ -105,7 +105,7 @@ const Kitchens = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="/cashville">
-              <img src="./assets/36.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/36.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">

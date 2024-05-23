@@ -34,7 +34,7 @@ const Rooms = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="/ps_wood">
-              <img src="./assets/7.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/7.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
@@ -58,7 +58,7 @@ const Rooms = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="/one_five">
-              <img src="./assets/39.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/39.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
@@ -82,7 +82,7 @@ const Rooms = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="minimal">
-              <img src="./assets/12.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/12.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
@@ -105,7 +105,7 @@ const Rooms = () => {
         >
           <div className=" drop-shadow-2xl">
             <Link to="stays_home">
-              <img src="./assets/17.jpg" alt="" className="rounded-3xl" />
+              <img src="./assets/17.jpg" alt="" className="rounded-3xl hover:opacity-90 cursor-pointer" />
             </Link>
           </div>
           <div className="mt-5 ml-1">
